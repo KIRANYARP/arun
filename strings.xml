@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SocialMediaApp</string>
+    <string name="geocode_button_text">Geocode Address</string>
+    <string name="set_reminder_button_text">Set Reminder</string>
+    <string name="enter_address_hint">Enter address</string>
+    <string name="reminder_message">Reminder: It's time for your trip!</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="theme_selection">Select Theme</string>
+    <string name="notification_preferences">Enable Notifications</string>
+    <string name="language_selection">Select Language</string>
+</resources>

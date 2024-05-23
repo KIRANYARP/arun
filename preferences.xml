@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="theme"
+        android:title="Select Theme"
+        android:defaultValue="light"
+        android:entries="@array/theme_options"
+        android:entryValues="@array/theme_values"/>
+
+    <SwitchPreferenceCompat
+        android:key="notifications"
+        android:title="Enable Notifications"
+        android:defaultValue="true"/>
+
+    <ListPreference
+        android:key="language"
+        android:title="Select Language"
+        android:defaultValue="en"
+        android:entries="@array/language_options"
+        android:entryValues="@array/language_values"/>
+
+</PreferenceScreen>
